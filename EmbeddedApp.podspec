@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
     spec.source = { 
         :git => "https://github.com/sigaldev/EmbeddedApp.git", 
         :branch => "master",
-        :tag => "#{s.version}"
+        :tag => "#{spec.version}"
         }
     spec.source_files               = "EmbeddedApp", "EmbeddedApp/**/*.{h,m,swift}"
 end
