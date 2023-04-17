@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                       = "EmbeddedApp"
-    spec.version                    = "0.1.0"
+    spec.version                    = "0.1.1"
     spec.summary                    = "App as submodule demo"
     spec.homepage                   = "https://github.com/sigaldev/EmbeddedApp"
     spec.license                    = { :type => "MIT", :file => "LICENSE" }
