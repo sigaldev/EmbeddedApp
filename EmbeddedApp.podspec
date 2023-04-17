@@ -1,4 +1,4 @@
-0Pod::Spec.new do |s|
+Pod::Spec.new do |s|
     s.name = "EmbeddedApp"
     s.version = "0.1.0"
     s.description = "App as submodule demo"
